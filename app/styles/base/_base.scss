@@ -1,10 +1,10 @@
 body {
   @include lato();
 
-  background: $gray-lightest;
+  background: transparent;
   margin: 50px 0 100px;
   letter-spacing: .3px;
-  color: $secondary-color;
+  color: #E97038;
 }
 
 h1,
